@@ -1,2 +1,2 @@
 # Aryan
-Aryan Application management System
+Note Taker Application

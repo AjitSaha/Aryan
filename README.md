@@ -1,2 +1,2 @@
-# Aryan
+# Note
 Note Taker Application
